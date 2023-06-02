@@ -1,0 +1,63 @@
+[
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_superToken", "type": "address" },
+      { "internalType": "uint96", "name": "_flowRate", "type": "uint96" },
+      { "internalType": "uint256", "name": "_tag", "type": "uint256" }
+    ],
+    "name": "startSession",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_superToken", "type": "address" }
+    ],
+    "name": "stopSession",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_superToken", "type": "address" },
+      { "internalType": "uint256", "name": "_nonce", "type": "uint256" }
+    ],
+    "name": "closeFlow",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_superToken", "type": "address" },
+      { "internalType": "uint256", "name": "_amount", "type": "uint256" }
+    ],
+    "name": "depositSuperToken",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_receiver", "type": "address" },
+      { "internalType": "address", "name": "_superToken", "type": "address" },
+      { "internalType": "uint256", "name": "_lifespan", "type": "uint256" }
+    ],
+    "name": "openFlow",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_superToken", "type": "address" },
+      { "internalType": "uint256", "name": "_amount", "type": "uint256" }
+    ],
+    "name": "withdrawSuperToken",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
