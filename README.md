@@ -8,6 +8,7 @@ Web3 Tech Used:
 - superfluid CFA: https://github.com/superfluid-finance/protocol-monorepo
 - gelato automate: https://github.com/gelatodigital/automate
 - proxy - diamond pattern: https://eips.ethereum.org/EIPS/eip-2535
+- Open Zeppelin: https://github.com/OpenZeppelin/openzeppelin-contracts
 - Sign In With Ethereum (SIWE): https://login.xyz/
 - Account Abstraction: https://github.com/eth-infinitism + https://github.com/zerodevapp/sdk
 - wagmi: https://wagmi.sh/
