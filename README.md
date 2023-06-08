@@ -12,3 +12,4 @@ Web3 Tech Used:
 - HardHat: https://hardhat.org/
 - Sign In With Ethereum (SIWE): https://login.xyz/
 - wagmi: https://wagmi.sh/
+- Account Abstraction: https://github.com/eth-infinitism + https://github.com/zerodevapp/sdk
